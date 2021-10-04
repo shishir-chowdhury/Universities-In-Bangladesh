@@ -29,7 +29,7 @@ function App() {
             <Contact></Contact>
           </Route>
           <Route>
-            <NotFound></NotFound>
+            <Home></Home>
           </Route>
           <Route exact path="/">
             <Home></Home>
