@@ -1,11 +1,12 @@
 import React from 'react';
 import { Link } from "react-router-dom";
+import './SingleUniver.css'
 
 const SingleUniver = (props) => {
     const { name, rank, img, city, address, established, website } = props.singleUniversity
     return (
-        <div>
-            <img src={img} style={{ height: "450px", width: "700px" }} alt="" />
+        <div className="single-uni">
+            <img src={img} style={{ height: "450px", width: "960px", marginTop: "15px" }} alt="" />
             <h1>University Name: {name}</h1>
             <h2>Rank: {rank}</h2>
             <h3>City: {city}</h3>
