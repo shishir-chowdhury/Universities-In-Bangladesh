@@ -4,7 +4,7 @@ import './University.css';
 const University = (props) => {
     const { name, id, img, city, address, established } = props.university;
     return (
-        <div className="container-body col-md-4 mb-3">
+        <div className="container-body col-md-4 mb-3 mt-3">
             <div className="card" style={{ width: "18rem" }}>
                 <img src={img} className="uni-img card-img-top img-fluid" alt="..." />
                 <div className="card-body">

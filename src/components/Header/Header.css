@@ -1,7 +1,8 @@
 .header{
     text-align: center;
     background-color: black;
-    line-height: 40px;
+    line-height: 80px;
+    margin-top: 20px;
 }
 .header-nav{
     text-decoration: none;

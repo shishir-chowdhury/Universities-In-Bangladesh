@@ -1,0 +1,48 @@
+[
+    {
+        "name": "Dhaka University",
+        "rank": 1,
+        "img": "https://media-eng.dhakatribune.com/uploads/2020/07/bigstock-dhaka-bangladesh-october-338372323-1593596833767.jpg",
+        "city": "Dhaka",
+        "address": "University Street, Nilkhet Rd, Dhaka 1000",
+        "established": 1921,
+        "website": "https://www.du.ac.bd/"
+
+    },
+    {
+        "name": "Bangladesh University of Engineering and Technology",
+        "rank": 2,
+        "img": "https://ce.buet.ac.bd/wp-content/uploads/2019/03/about.jpg",
+        "city": "Dhaka",
+        "address": "Palashi, Dhaka 1205",
+        "established": 1876,
+        "website": "https://www.buet.ac.bd/web/#/"
+    },
+    {
+        "name": "Rajshahi University",
+        "rank": 3,
+        "img": "http://www.ru.ac.bd/wp-content/uploads/2017/12/administration-opt-1.jpg",
+        "city": "Rajshahi",
+        "address": "Administration Building 1, Rajshahi",
+        "established": 1953,
+        "website": "http://www.ru.ac.bd/english/"
+    },
+    {
+        "name": "Chittagong University",
+        "rank": 4,
+        "img": "https://media-eng.dhakatribune.com/uploads/2013/07/CU.jpg",
+        "city": "Chittagong",
+        "address": "Chittagong University Rd, 4331",
+        "established": 1966,
+        "website": "https://cu.ac.bd/"
+    },
+    {
+        "name": "Khulna University",
+        "rank": 5,
+        "img": "https://www.daily-sun.com/assets/news_images/2019/08/31/KU.PNG",
+        "city": "Khulna",
+        "address": "Sher-E-Bangla Rd, Khulna 9208",
+        "established": 1991,
+        "website": "https://ku.ac.bd/" 
+    }
+]
