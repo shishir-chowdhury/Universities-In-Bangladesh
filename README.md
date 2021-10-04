@@ -1,6 +1,6 @@
 # Universities In Bangladesh
 
-This project was bootstrapped with [Create React App](https://uni-in-bd-55360e.netlify.app/).
+Live website link [](https://uni-in-bd-55360e.netlify.app/).
 
 ## Available Scripts
 
