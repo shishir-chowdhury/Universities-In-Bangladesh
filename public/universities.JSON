@@ -1,0 +1,98 @@
+[
+    {
+        "name": "Dhaka University",
+        "id": 1,
+        "img": "https://media-eng.dhakatribune.com/uploads/2020/07/bigstock-dhaka-bangladesh-october-338372323-1593596833767.jpg",
+        "city": "Dhaka",
+        "address": "University Street, Nilkhet Rd, Dhaka 1000",
+        "established": 1921
+    },
+    {
+        "name": "Rajshahi University",
+        "id": 2,
+        "img": "http://www.ru.ac.bd/wp-content/uploads/2017/12/administration-opt-1.jpg",
+        "city": "Rajshahi",
+        "address": "Administration Building 1, Rajshahi",
+        "established": 1953
+    },
+    {
+        "name": "Chittagong University",
+        "id": 3,
+        "img": "https://media-eng.dhakatribune.com/uploads/2013/07/CU.jpg",
+        "city": "Chittagong",
+        "address": "Chittagong University Rd, 4331",
+        "established": 1966
+    },
+    {
+        "name": "Khulna University",
+        "id": 4,
+        "img": "https://www.daily-sun.com/assets/news_images/2019/08/31/KU.PNG",
+        "city": "Khulna",
+        "address": "Sher-E-Bangla Rd, Khulna 9208",
+        "established": 1991
+    },
+    {
+        "name": "Bangladesh University of Engineering and Technology",
+        "id": 5,
+        "img": "https://ce.buet.ac.bd/wp-content/uploads/2019/03/about.jpg",
+        "city": "Dhaka",
+        "address": "Palashi, Dhaka 1205",
+        "established": 1876
+    },
+    {
+        "name": "Khulna University of Engineering & Technology",
+        "id": 6,
+        "img": "https://www.kuet.ac.bd/images/gallery/0.jpg",
+        "city": "Khulna",
+        "address": "WG22+6WH, Khulna 9203",
+        "established": 1967
+    },
+    {
+        "name": "Rajshahi University of Engineering & Technology",
+        "id": 7,
+        "img": "https://thebangladeshtoday.com/wp-content/uploads/2019/10/RUET-TEST-RESULT.jpg",
+        "city": "Rajshahi",
+        "address": "6204 Rajshahi - Dhaka Hwy, Rajshahi",
+        "established": 1964
+    },
+    {
+        "name": "Chittagong University of Engineering and Technology",
+        "id": 8,
+        "img": "https://studybarta.com/wp-content/uploads/2018/07/cuet-admission-test-1.jpg",
+        "city": "Chittagong",
+        "address": "Kaptai, Highway Chattogram 4349",
+        "established": 1968
+    },
+    {
+        "name": "Shahjalal University of Science and Technology",
+        "id": 9,
+        "img": "https://studybarta.com/wp-content/uploads/2018/07/sust_admission.jpg",
+        "city": "Sylhet",
+        "address": "3114 University Ave, Sylhet",
+        "established": 1986
+    },
+    {
+        "name": "Pabna University of Science and Technology",
+        "id": 10,
+        "img": "https://www.pust.ac.bd/includes/images/messages_pic/2.jpg",
+        "city": "Pabna",
+        "address": "Rajapur, Dhaka - Pabna Highway, Pabna 6600",
+        "established": 2008
+    },
+    {
+        "name": "Hajee Mohammad Danesh Science & Technology University",
+        "id": 11,
+        "img": "https://education.bangladeshinformation.info/wp-content/uploads/sites/5/2016/10/Hajee-Mohammad-Danesh-Science-and-Technology-University.jpg",
+        "city": "Dinajpur",
+        "address": "Basherhat, N508, 5200",
+        "established": 1979
+    },
+    {
+        "name": "North South University",
+        "id": 12,
+        "img": "http://www.northsouth.edu/newassets/images/nsu.jpg",
+        "city": "Dhaka",
+        "address": "Bashundhara, Dhaka-1229",
+        "established": 1992
+    }
+]
