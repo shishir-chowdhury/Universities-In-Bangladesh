@@ -28,7 +28,7 @@ const Home = () => {
                 <div className="singleUni-container row">
                     {
                         singleUni.map(singleUniversity => <SingleUniver
-                            key={singleUniversity.id}
+                            key={singleUniversity.rank}
                             singleUniversity={singleUniversity}
                         ></SingleUniver>)
                     }

@@ -11,7 +11,7 @@ const Service = () => {
     }, [])
     return (
         <div>
-
+            <h1>List of top universities in Bangladesh</h1>
             <div className="service-container row">
                 {
                     universities.map(university => <University
